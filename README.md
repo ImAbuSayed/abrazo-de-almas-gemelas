@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Abrazo de almas gemelas |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-almas-gemelas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Abrazo de almas gemelas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-almas-gemelas/) |
+| **Get License** | [Obtain a Music License for Abrazo de almas gemelas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-almas-gemelas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Dime qué pasa si apagan las luces, chula
-> Tú tienes el flow que mi mente manipula
-> Pégate lento, let’s make it cinematic
-> Un choque de cuerpos, baby, this is magic
+> Midnight calls your name, I'm lost inside the flame
+> Your body speaks a language that I'll never tame
+> One touch and I'm addicted to the sweetest game
+> This rhythm of your heartbeat puts my soul to shame
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
