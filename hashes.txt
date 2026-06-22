@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazo de almas gemelas
+
+This log tracks the cryptographic history and versioning for the song **Abrazo de almas gemelas** (abrazo-de-almas-gemelas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T06:08:46.578291 | `v1` | `8a51bdfbe9a9309db331c1475eb14f1ab97fd2c41aa15197cacc94933c93e57e` | `e17ca90b8ace2a22ecbd50dd970cf5d54a24a3d1e6c831bd6b4f6abc1c6b5efc` | `2026-06-22_abrazo-de-almas-gemelas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
