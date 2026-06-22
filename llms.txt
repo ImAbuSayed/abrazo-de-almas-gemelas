@@ -15,7 +15,7 @@
 | **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-almas-gemelas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Abrazo de almas gemelas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-almas-gemelas/) |
+| **Get License** | [Obtain a Music License for Abrazo de almas gemelas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-almas-gemelas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/4017)
+- [Telegram](https://t.me/AbuSayedMusic/4034)
 
 ---
 
