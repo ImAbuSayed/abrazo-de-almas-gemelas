@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-almas-gemelas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Abrazo de almas gemelas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-almas-gemelas/) |
+| **Get License** | [Get License For Abrazo de almas gemelas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-almas-gemelas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime qué pasa si apagan las luces, chula
+> Tú tienes el flow que mi mente manipula
+> Pégate lento, let’s make it cinematic
+> Un choque de cuerpos, baby, this is magic
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
